@@ -47,7 +47,7 @@ Bu kod çalıştırıldığında:
 - Doğrusal olarak ayrılabilir problemlerin çözümü öğrenilir
 - Yapay sinir ağlarının temel yapı taşı kavranır
 
-
+## Teknik Detaylar
 - **Algoritma**: Perceptron Learning Rule
 - **Aktivasyon Fonksiyonu**: Step Function
 - **Öğrenme Oranı**: Ayarlanabilir (genellikle 0.1-0.01 arası)
