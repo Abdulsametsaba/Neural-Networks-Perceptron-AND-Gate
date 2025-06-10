@@ -53,4 +53,4 @@ Bu kod çalıştırıldığında:
 - **Öğrenme Oranı**: Ayarlanabilir (genellikle 0.1-0.01 arası)
 - **Yakınsama**: Garantili (doğrusal ayrılabilir problemler için)
 
-Bu basit örnek, karmaşık sinir ağı mimarilerinin temelini oluşturur ve makine öğrenmesinin çalışma prensiplerini anlamak için mükemmel bir başlangıç noktasıdır.
+
